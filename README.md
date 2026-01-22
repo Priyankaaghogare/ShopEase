@@ -63,10 +63,15 @@ Checkout & exit
 
 src/
  ├─ com.model/
+ 
  │   ├─ Product.java
+ 
  │   └─ ProductSet.java
+ 
  ├─ com.user/
+ 
  │   └─ UserRgist.java
+ 
  └─ com.service/
      └─ Test.java
 
