@@ -6,8 +6,7 @@ No UI frameworks or web layers are used.
 
 
 👨‍💻 Author : 
-Priyanka Ghogare
-Console-based shopping application in Core Java.
+Priyanka Ghogare Java Developer | Spring Boot | JDBC | Hibernate
 
 📄 License : 
 This project is for learning and educational purposes.
