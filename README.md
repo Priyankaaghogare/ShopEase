@@ -5,11 +5,11 @@ It allows users to register, login, browse products, manage a shopping cart, and
 No UI frameworks or web layers are used.
 
 
-👨‍💻 Author
+👨‍💻 Author : 
 Priyanka Ghogare
 Console-based shopping application in Core Java.
 
-📄 License
+📄 License : 
 This project is for learning and educational purposes.
 
 
@@ -80,7 +80,8 @@ src/
 5) JDBC for basic authentication
 
 
-▶ How to Run
+▶ How to Run 
+
 Option 1: Through Terminal
 
 Compile:
@@ -90,6 +91,7 @@ Run:
 java com.service.Test
 
 Option 2: Through IDE
+
 Import the project in Eclipse / IntelliJ / NetBeans
 Run Test.java class
 
