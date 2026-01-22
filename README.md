@@ -12,7 +12,8 @@ Priyanka Ghogare Java Developer | Spring Boot | JDBC | Hibernate
 This project is intended for educational and practice purposes only, aimed at improving programming skills.
 
 
-🚀 Features
+
+🚀 Features : 
 
 👤 User Module
 
