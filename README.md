@@ -9,8 +9,7 @@ No UI frameworks or web layers are used.
 Priyanka Ghogare Java Developer | Spring Boot | JDBC | Hibernate
 
 📄 License : 
-This project is for learning and educational purposes.
-
+This project is intended for educational and practice purposes only, aimed at improving programming skills.
 
 
 🚀 Features
